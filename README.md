@@ -2,7 +2,7 @@
 
 <!-- NEW 3D ISOMETRIC CARDS (Replacing Streak Stats) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9ikii5ec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e" alt="9ikii5ec Stats" />
+  <img src="https://raw.githubusercontent.com/9ikii5ec/9ikii5ec/output/github-contribution-grid-snake.svg" alt="Github Activity Snake Game" />
 </p>
 
 <!-- Optional: New Dynamic Banner and Technology Badges to enhance the composition -->
