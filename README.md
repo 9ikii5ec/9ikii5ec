@@ -77,7 +77,9 @@ Here is a selection of projects I've developed, ranging from mobile titles to in
 
 ## 📈 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=9ikii5ec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e" alt="9ikii5ec Stats" height="150" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=9ikii5ec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e" alt="9ikii5ec's GitHub stats" height="150" />
+  </a>
 </p>
 
 ---
