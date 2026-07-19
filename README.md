@@ -1,13 +1,22 @@
 # Hi, I'm 9ikii5ec 👋 | Unity Playable Ads & Game Developer
 
+<!-- NEW 3D ISOMETRIC CARDS (Replacing Streak Stats) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&secondaryColor=bb9af7&height=180&section=header&text=Playable%20Dev&fontSize=65&fontColor=ffffff&animation=twinkling" alt="Banner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=9ikii5ec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e" alt="9ikii5ec Stats" />
 </p>
 
+<!-- Optional: New Dynamic Banner and Technology Badges to enhance the composition -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9ikii5ec&theme=tokyonight&hide_border=true&background=1a1a2e" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&secondaryColor=bb9af7&height=180&section=header&text=Playable%20Ads%20%20Developer&fontSize=55&fontColor=ffffff&animation=twinkling" alt="Playable Ads Banner" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playworks-7B2CBF?style=for-the-badge"/>
 </p>
 
+<!-- Rest of the text is unchanged -->
 ## 🌌 About Me
 > *Crafting High-Performance Games & Playable Ads* 🚀
 
